@@ -1,2 +1,2 @@
-# Dev in C
- Aprimorando habilidades.
+# Dev-in-C
+Aprimorando habilidades
